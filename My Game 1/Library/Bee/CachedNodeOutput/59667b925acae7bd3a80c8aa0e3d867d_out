@@ -1,0 +1,1 @@
+Packages\xyz.0xsequence.waas-unity\Sequence\SequenceSDK\Utils\SecureStorage\AndroidKeystoreStorage.cs(9,22): warning CS0414: The field 'AndroidKeystoreStorage._isInitialized' is assigned but its value is never used

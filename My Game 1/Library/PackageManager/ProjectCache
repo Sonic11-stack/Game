@@ -15,8 +15,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638796523086391246
-    m_Hash: 1010584162
+      ticks: 638796531401906325
+    m_Hash: 1558174219
 m_EmbeddedPackageManifests:
   m_ManifestsStatus:
     "C:/Users/konno/OneDrive/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Game/My Game 1/Packages/xyz.0xsequence.waas-unity/package.json":
@@ -26,8 +26,8 @@ m_EmbeddedPackageManifests:
       m_ContentTrackingEnabled: 1
       m_ModificationDate:
         serializedVersion: 2
-        ticks: 638790517280000000
-      m_Hash: 3728142997
+        ticks: 638796531409041557
+      m_Hash: 701500312
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: "C:/Users/konno/OneDrive/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Game/My
