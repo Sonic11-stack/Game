@@ -1,0 +1,4 @@
+Packages\xyz.0xsequence.waas-unity\Sequence\SequenceSDK\Marketplace\DataTypes\CollectibleOrder.cs(7,18): warning CS0659: 'CollectibleOrder' overrides Object.Equals(object o) but does not override Object.GetHashCode()
+Packages\xyz.0xsequence.waas-unity\Sequence\SequenceSDK\Marketplace\DataTypes\Order.cs(9,18): warning CS0659: 'Order' overrides Object.Equals(object o) but does not override Object.GetHashCode()
+Packages\xyz.0xsequence.waas-unity\Sequence\SequenceSDK\Marketplace\DataTypes\GetCheckoutOptionsArgs.cs(19,13): warning CS1717: Assignment made to same variable; did you mean to assign something else?
+Packages\xyz.0xsequence.waas-unity\Sequence\SequenceSDK\Marketplace\ERC1155SaleCheckout.cs(282,34): warning CS1998: This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.
