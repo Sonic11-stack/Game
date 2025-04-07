@@ -6,8 +6,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638796515204281821
-    m_Hash: 1406902011
+      ticks: 638796534113546697
+    m_Hash: 3725847042
   m_LockFileStatus:
     m_FilePath: "C:/Users/konno/OneDrive/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Game/My
       Game 1/Packages/packages-lock.json"
@@ -15,7 +15,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638796531401906325
+      ticks: 638796534113561519
     m_Hash: 1558174219
 m_EmbeddedPackageManifests:
   m_ManifestsStatus:
@@ -26,7 +26,7 @@ m_EmbeddedPackageManifests:
       m_ContentTrackingEnabled: 1
       m_ModificationDate:
         serializedVersion: 2
-        ticks: 638796531409041557
+        ticks: 638796534121026280
       m_Hash: 701500312
 m_LocalPackages:
   m_LocalFileStatus: []
